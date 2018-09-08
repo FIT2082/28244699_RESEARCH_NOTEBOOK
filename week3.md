@@ -20,4 +20,4 @@ This will be check list of the task to be done for the week
 * [x] Import 3D Model
 * [x] Begin draft of project specification.
 * [x] Explore VR Literature.
-* [x] Play around with unity 
+* [x] Play around with unity. 

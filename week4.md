@@ -1,14 +1,19 @@
-# Week
+# Week 4 
 
-This section will have a brief overview of the activities done in this week.
+This week I managed to get to the meeting and had a chat with Jason and Hailleslassie. We discussed what was 
+required for the project we also continued working on the project specification and after that chat I had a 
+better understanding of the project. 
 
 ## Meeting
  
-This section will be a brief overview of points discussed in the Meeting .
+In the meeting with our supervisors I got the chance to clear up some misconceptions I had and we discussed the
+direction our project was going to take we also spent time discussing the project specification.
 
 ## Tasks
 
-This will be check list of the task to be done for the week 
 
-* [ ] This will indicate an incomplete task
-* [x] This will indicate a comp
+* [ ] Clean up scanned model
+* [x] Implement basic navigation in unity 
+* [x] Document literature in relation to VR
+* [x] Review relevant literature Summarize Navigation techniques and their implementations
+ 

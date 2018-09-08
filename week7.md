@@ -1,6 +1,6 @@
-# Week
+# Week 3
 
-This section will have a brief overview of the activities done in this week.
+This section wi
 
 ## Meeting
  
