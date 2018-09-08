@@ -13,10 +13,11 @@ This section will have a brief overview of the activities done in this week.
  
 This section will be a brief overview of points discussed in the Meeting .
 
-### Tasks
+## Tasks
 
 This will be check list of the task to be done for the week 
 
 * [ ] This will indicate an incomplete task
 * [x] This will indicate a complete task
 
+All Incomplete task will be included in the task for the following week.
