@@ -5,15 +5,15 @@ In this repository I will document my activities for the 14 weeks allocated for 
 
 The structure of my work will be as follows:
 
-#Week
+# Week
 
 This section will have a brief overview of the activities done in this week.
 
-##Meeting
+## Meeting
  
 This section will be a brief overview of points discussed in the Meeting .
 
-###Tasks
+### Tasks
 
 This will be check list of the task to be done for the week 
 
