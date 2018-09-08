@@ -20,7 +20,7 @@ Arnaud suggested we install Unity and learn how to work with unity using C#.He a
  From the conversations I had with Jason and my supervisors the tasks I had for this week were as follows:
  
  ###Tasks
- [x] Install Unity 
- [x] Play around with unity and understand C#
- [] Plan project specification .
- [x] Preliminary Investigation into Literature.
+ * [x] Install Unity 
+ * [x] Play around with unity and understand C#
+ * [] Plan project specification .
+ * [x] Preliminary Investigation into Literature.
