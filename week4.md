@@ -16,4 +16,4 @@ direction our project was going to take we also spent time discussing the projec
 * [x] Implement basic navigation in unity 
 * [x] Document literature in relation to VR
 * [x] Review relevant literature Summarize Navigation techniques and their implementations
- 
+* 
