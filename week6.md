@@ -10,7 +10,7 @@ to be stored in the repository.
 
 ## Tasks
 
-This will be check list of the task to be done for the week 
+ 
 
 * [ ] Clean up mesh 
 * [ ] Create Repository 
