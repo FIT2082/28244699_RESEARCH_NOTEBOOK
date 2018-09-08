@@ -22,5 +22,5 @@ Arnaud suggested we install Unity and learn how to work with unity using C#.He a
  ###Tasks
  * [x] Install Unity 
  * [x] Play around with unity and understand C#
- * [] Plan project specification .
+ * [ ] Plan project specification .
  * [x] Preliminary Investigation into Literature.
