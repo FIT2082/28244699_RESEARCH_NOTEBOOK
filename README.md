@@ -20,4 +20,4 @@ This will be check list of the task to be done for the week
 * [ ] This will indicate an incomplete task
 * [x] This will indicate a complete task
 
-All Incomplete task will be included in the task for the following week.
+All Incomplete task will be included in the tasks for the following week.
