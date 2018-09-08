@@ -15,7 +15,6 @@ the mesh. We also submitted a Draft of the project specification to our supervis
 
 ## Tasks
 
-
 * [ ] Clean up scanned model
 * [x] Finish Project Specification 
 * [x] Establish Timeline
