@@ -19,8 +19,7 @@ place to another and we did not manage to do this task.
 * [x] Setup model on computer at Caufield
 * [ ] Clean up mesh 
 * [ ] Implement teleportation in unity 
-* [ ] 
-
+* [ ] Move player in model 
 
 
 
