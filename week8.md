@@ -22,8 +22,8 @@ place to another and we did not manage to do this task.
 * [ ] Move player in model 
 
 
+![](week8_images\c237b8bb.png)
 
 
-![](.week8_images\08732e59.png)
 
 
