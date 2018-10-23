@@ -19,7 +19,7 @@ gave us advice on how to fix it.
 
 * [x] Clean up mesh 
 * [x] Implement teleportation in unity 
-* [ ] Move player in model 
+* [ ] Do Lit review
 
 ##Bugs
 
