@@ -8,7 +8,7 @@ were given access to two computers and a HTC Vive Pro which we would use to test
 
 We discussed the steps we needed to take to complete the project, and what we had done so far, we discussed 
 different navigation techniques we could implement of particular interest was a navigation method whereby the use would 
-have a map in their hands and they could pick a point in the map where they would want to go once they do this  they may 
+have a mab in their hands and they could pick a point in the map where they would want to go once they do this  they may 
 then teleport to that place. Jason and I decided we would first try implement a way for the user to teleport from one 
 place to another and we did not manage to do this task.
 
