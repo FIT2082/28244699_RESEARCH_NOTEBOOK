@@ -1,4 +1,5 @@
 # Week 11
+
 This was the final meeting we had with our supervisors as they were leaving to Europe and they suggested we have drafts 
 of our poster and a draft of our paper they could look so this became my priority this week.I began working on the structure 
 of the poster and started consulting with Jason about what he felt should be left out from the poster. I the poster and 

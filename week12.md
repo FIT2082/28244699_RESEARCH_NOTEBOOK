@@ -1,32 +1,31 @@
 # Week 12
 
-This weeks main task was to get started on implementing Navigation techniques in VR . As instructed by our supervisors 
-last week we worked on adding papers to our literature review and discussed them in the meeting. After our meeting we 
-were given access to two computers and a HTC Vive Pro which we would use to test out our model. 
+No meeting was scheduled this weeks however we spent or week finalizing the poster and I got feedback from our supervisor 
+who suggested that we add more explanation of how the teleportation methods work however overall he was pleased with the 
+structure and content of the poster. With the advice from the our supervisors and the results of our evalution Jason and 
+I finalized our poster which may be found here 
 
 ## Meeting
 
-We discussed the steps we needed to take to complete the project, and what we had done so far, we discussed 
-different navigation techniques we could implement of particular interest was a navigation method whereby the use would 
-have a mab in their hands and they could pick a point in the map where they would want to go once they do this  they may 
-then teleport to that place. Jason and I decided we would first try implement a way for the user to teleport from one 
-place to another and we did not manage to do this task.
+No meeting this week 
 
-## Tasks
+## Evaluation 
 
-* [x] Add papers to Lit review
-* [x] Plan heuristic evaluation
-* [ ] Finish Poster 
-* [ ] Draft Paper
-* [x] Send poster draft
+From our heuristic  evaluation we found that:
+ * **Walking in VR was rated the highest** 
+ * teleportation by pointing and teleportation by using a map and portal did not perform as badly as expected 
 
-## Bugs
+As expected walking in VR was the easiest to use as it mimics real life walking.
+## Final remarks 
 
-* [ ] Move player with HTC Vive pro controller
-* [x] Camera perspectives on the portal
-* [ ] Fix error experienced when switching from simulator to HTC Vive
-* [ ] Fix error with head rotations
-* [ ] Fix error with collision problems 
+* Although the final prototype was a bit buggy all the aims set up in the project specification were mostly achived
+* It would have been more ideal to have a better model as a lot of time was spent trying to fix the old model
+* More development should have been done using the Vive to avoid some of the bugs we encountered 
+* Due to time constraints we had to limit the techniques we wanted to test it would be more ideal in the future to
+fully explore more navigation techniques.
+* The heuristic evaluation would benefit from having a larger sample space especially people with varying expirence in VR
+to get a more representative result
+
 
 
 
