@@ -9,6 +9,8 @@ more papers to our lit review progressively so we worked on adding a few more pa
 time Jason and I decided that it would be best if I worked with Jason on the development till end of week 10 then I would
 branch off to work more on the final paper and the poster.
 
+Jason and I decided that that the mesh was sufficiently clean enough to use and continued to work with it as it was
+
 ## Meeting
 
 During this meeting there was not a lot to be discussed the bulk of the meeting was spent checking up on the progress 
@@ -19,7 +21,7 @@ gave us advice on how to fix it.
 
 * [x] Clean up mesh 
 * [x] Implement teleportation in unity 
-* [ ] Add papers to Lit review
+* [x] Add papers to Lit review
 
 ## Bugs
 
