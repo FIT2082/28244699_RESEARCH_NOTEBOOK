@@ -19,7 +19,7 @@ gave us advice on how to fix it.
 
 * [x] Clean up mesh 
 * [x] Implement teleportation in unity 
-* [ ] Do Lit review
+* [ ] Add papers to Lit review
 
 ## Bugs
 
