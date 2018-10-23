@@ -23,7 +23,7 @@ place to another and we did not manage to do this task.
 
 
 
-![alt text](https://github.com/FIT2082/28244699_RESEARCH_NOTEBOOK/blob/master/week8_images/c237b8bb.png"Image of HTC Vive pro")
+![alt text](https://github.com/FIT2082/28244699_RESEARCH_NOTEBOOK/blob/master/week8_images/c237b8bb.png "Image of HTC Vive pro")
 
 
 
