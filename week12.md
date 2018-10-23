@@ -3,7 +3,7 @@
 No meeting was scheduled this weeks however we spent or week finalizing the poster and I got feedback from our supervisor 
 who suggested that we add more explanation of how the teleportation methods work however overall he was pleased with the 
 structure and content of the poster. With the advice from the our supervisors and the results of our evalution Jason and 
-I finalized our poster which may be found here 
+I finalized our poster which may be found here https://github.com/FIT2082/28244699_RESEARCH_NOTEBOOK/blob/master/Final%20Draft.pdf
 
 ## Meeting
 
