@@ -21,7 +21,7 @@ gave us advice on how to fix it.
 * [x] Implement teleportation in unity 
 * [ ] Do Lit review
 
-##Bugs
+## Bugs
 
 * [ ] Move player with HTC Vive pro controller
 * [ ] Camera perspectives on the portal
