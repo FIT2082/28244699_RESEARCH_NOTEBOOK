@@ -1,28 +1,34 @@
-# Week 8
+# Week 11
+This was the final meeting we had with our supervisors as they were leaving to Europe and they suggested we have drafts 
+of our poster and a draft of our paper they could look so this became my priority this week.I began working on the structure 
+of the poster and started consulting with Jason about what he felt should be left out from the poster. I the poster and 
+sent a draft by the end of the week in hopes of getting a response by next week. We continued to work the problems that 
+we had however it felt like as soon as we solved one another one came up. I was unwell for the bulk of this week due to 
+an asthma attack so I could not collaborate with Jason as much as intended. 
 
-This weeks main task was to get started on implementing Navigation techniques in VR . As instructed by our supervisors 
-last week we worked on adding papers to our literature review and discussed them in the meeting. After our meeting we 
-were given access to two computers and a HTC Vive Pro which we would use to test out our model. 
 
 ## Meeting
 
-We discussed the steps we needed to take to complete the project, and what we had done so far, we discussed 
-different navigation techniques we could implement of particular interest was a navigation method whereby the use would 
-have a mab in their hands and they could pick a point in the map where they would want to go once they do this  they may 
-then teleport to that place. Jason and I decided we would first try implement a way for the user to teleport from one 
-place to another and we did not manage to do this task.
+We discussed ideas as to how we would present specifically what to include they suggested we include less text as our 
+project was one that was best described visually. Since we could not set up the Vive pro at the venue we found it best to 
+take screen shots which we would include in the poster and screen recording of the navigation techniques.
 
 ## Tasks
 
-* [x] Implement Colliders
-* [x] Do Literature review on 3 papers 
-* [x] Setup model on computer at Caufield
-* [ ] Clean up mesh 
-* [ ] Implement teleportation in unity 
-* [ ] Move player in model 
+* [x] Add papers to Lit review
+* [x] Plan heuristic evaluation
+* [ ] Finish Poster 
+* [ ] Draft Paper
+* [x] Send poster draft
 
+## Bugs
 
-![](week8_images\c237b8bb.png)
+* [ ] Move player with HTC Vive pro controller
+* [x] Camera perspectives on the portal
+* [ ] Fix error experienced when switching from simulator to HTC Vive
+* [ ] Fix error with head rotations
+* [ ] Fix error with collision problems 
+
 
 
 

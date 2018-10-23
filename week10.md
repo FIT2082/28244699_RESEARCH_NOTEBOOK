@@ -12,13 +12,13 @@ at heuristic evaluation to evaluate our project and this paper
 https://academic.oup.com/iwc/article-abstract/16/4/831/690829 aid in the planning of our evaluation described heuristic 
 evaluation methods for VR and aid us immensely in the planning of our evaluation. 
 
-
 ## Tasks
 
 * [x] Add papers to Lit review
 * [ ] Plan heuristic evaluation
 * [ ] Finish Poster 
 * [ ] Draft Paper
+
 
 
 

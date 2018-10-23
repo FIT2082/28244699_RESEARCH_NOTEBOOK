@@ -1,4 +1,4 @@
-# Week 8
+# Week 12
 
 This weeks main task was to get started on implementing Navigation techniques in VR . As instructed by our supervisors 
 last week we worked on adding papers to our literature review and discussed them in the meeting. After our meeting we 
@@ -14,15 +14,23 @@ place to another and we did not manage to do this task.
 
 ## Tasks
 
-* [x] Implement Colliders
-* [x] Do Literature review on 3 papers 
-* [x] Setup model on computer at Caufield
-* [ ] Clean up mesh 
-* [ ] Implement teleportation in unity 
-* [ ] Move player in model 
+* [x] Add papers to Lit review
+* [x] Plan heuristic evaluation
+* [ ] Finish Poster 
+* [ ] Draft Paper
+* [x] Send poster draft
+
+## Bugs
+
+* [ ] Move player with HTC Vive pro controller
+* [x] Camera perspectives on the portal
+* [ ] Fix error experienced when switching from simulator to HTC Vive
+* [ ] Fix error with head rotations
+* [ ] Fix error with collision problems 
 
 
-![](week8_images\c237b8bb.png)
+
+
 
 
 
