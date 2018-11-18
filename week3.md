@@ -13,7 +13,6 @@ I was unable to attend this meeting however I did have conversation with Jason a
 
 ## Tasks
 
-This will be check list of the task to be done for the week 
 
 * [ ] This will indicate an incomplete task
 * [x] Plan project specification .
