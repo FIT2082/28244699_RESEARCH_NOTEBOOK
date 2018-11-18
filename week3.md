@@ -14,7 +14,6 @@ I was unable to attend this meeting however I did have conversation with Jason a
 ## Tasks
 
 
-* [ ] This will indicate an incomplete task
 * [x] Plan project specification .
 * [x] Import 3D Model
 * [x] Begin draft of project specification.
